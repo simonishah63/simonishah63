@@ -9,12 +9,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working as a **Senior Software Engineer** on a full-stack PHP/Laravel + Vue.js + MySQL codebase
-- 💳 Previously built features for **DivideBuy**, a high-traffic buy-now-pay-later platform later **acquired by Zopa**
-- 🏗️ I specialize in **legacy codebase modernization** — refactoring high-complexity systems into maintainable, well-structured code without breaking existing functionality
+- 🔭 **Senior Software Engineer** specializing in PHP/Laravel, Vue.js, MySQL, and modern web applications
+- 💳 Previously worked on **DivideBuy**, a high-traffic buy-now-pay-later platform later **acquired by Zopa**
+- 🏗️ Specialized in **legacy codebase modernization**, refactoring complex systems into maintainable and scalable applications
 - 🎓 Completed a **Master of Engineering in Software Engineering** in Canada
-- 🌍 Based in Kitchener, Ontario, Canada — open to remote, hybrid, or onsite work
-- 🤖 I use AI-assisted development tools (GitHub Copilot, Cursor) daily, with a strong emphasis on critically reviewing and validating generated code
+- 🌍 Based in Kitchener, Ontario, Canada
+- 🤖 Experienced with AI-assisted development using **GitHub Copilot** and **Cursor**, with a focus on reviewing, testing, and validating generated code
 
 ---
 
@@ -61,12 +61,12 @@
 
 ### 🏆 Highlights
 
-- 📈 Improved API response times by **up to 40%** on a high-traffic BNPL platform by optimizing MySQL queries, schema design, and framework configuration
-- ✅ Raised test coverage from **50% to 80%**, cutting production defects by **80%**, through a Test-Driven Development approach
-- 🚀 Owned end-to-end delivery of **20+ full-stack projects** across fintech, SaaS, and enterprise domains
-- 🥇 Earned a company **CStar Award** for resolving critical production issues within weeks of joining a large, established SaaS platform
-- 👥 Trained and mentored **7–8 junior developers**, progressing from Apprentice Trainee to Senior PHP Developer over 5 years
-- 🔐 Integrated secure payment and credit-check systems (Stripe, PayPal, Opayo, TransUnion) with OWASP-aligned practices (JWT, RBAC)
+- 📈 Improved API response times by **up to 40%** on a high-traffic BNPL platform through MySQL query, schema, and framework optimization
+- ✅ Increased test coverage from **50% to 80%** and reduced production defects by **80%**
+- 🚀 Delivered **20+ full-stack projects** across fintech, SaaS, and enterprise domains
+- 🥇 Received a company **CStar Award** for resolving critical production issues shortly after joining an established SaaS platform
+- 👥 Trained and mentored **7–8 junior developers** throughout my progression from Apprentice Trainee to Senior PHP Developer
+- 🔐 Integrated payment and credit-check systems including Stripe, PayPal, Opayo, and TransUnion
 
 ---
 
